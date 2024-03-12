@@ -9,4 +9,4 @@
 
 ## Data Sources
 
-this Project made use of "Vgsales.xlsx" as its primary dataset
+this Project made use of "Vgsales.csv" as its primary dataset
